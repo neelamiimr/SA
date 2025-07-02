@@ -20,3 +20,4 @@ requests==2.25.1
 Cython==0.29.23
 pickleshare==0.7.5
 chardet==3.0.4
+setuptools>=58
